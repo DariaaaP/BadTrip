@@ -1,3 +1,6 @@
+Браузерная игра "BadTrip".
+
+
 Установите:
 - `npm install`
 
@@ -8,4 +11,4 @@
 `http://localhost:8080`.
 
 
-всё было взято отсюда: https://oliverbenns.itch.io/sunset-selfies
+Исходный код взят отсюда: https://oliverbenns.itch.io/sunset-selfies
