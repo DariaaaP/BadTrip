@@ -18,6 +18,6 @@ http://badtrip.intuition.team/
 · сервер доступен по адресу: `http://localhost:8080`
 
 
-Технологии: Phaser
+*Технологии:* Phaser
 
-Исходный код взят отсюда: https://oliverbenns.itch.io/sunset-selfies
+***Исходный код взят отсюда:*** https://oliverbenns.itch.io/sunset-selfies
