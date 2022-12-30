@@ -1,0 +1,61 @@
+export const PALETTE = {
+  PRIMARY: '#ff00be',
+  SECONDARY: '#FF00FF',
+  HIGHLIGHT: '#000000',
+  SHADOW: '#ff0058',
+};
+
+export const IMAGES = {
+  BUTTON: 'BUTTON',
+  SUNSET: 'SUNSET',
+  GRADIENT: 'GRADIENT',
+  PLAYER: 'PLAYER',
+  PIZZA: 'PIZZA',
+  BURGER: 'BURGER',
+  FLOOR: 'FLOOR',
+  LIFE: 'LIFE',
+  LIFE2: 'LIFE2',
+  TITLE: 'TITLE',
+  EGGPLANT: 'EGGPLANT',
+  PLAYER1: 'PLAYER1',
+  PLAY: 'PLAY',
+  LOGO: 'LOGO',
+  BYE: 'BYE',
+  ZAN: 'ZAN',
+  PIR5: 'PIR5',
+  PIR6: 'PIR6',
+  PIR7: 'PIR7',
+  LEFTMENU: 'LEFTMENU',
+  LADYMOUTH: 'LADYMOUTH',
+  LOGOLADY: 'LOGOLADY',
+  LOVI: 'LOVI',
+  NELOVI: 'NELOVI',
+  SMETR: 'SMETR',
+  NOO: 'NOO'
+};
+
+export const SFX = {
+  BITE: 'BITE',
+  SHUTTER: 'SHUTTER',
+  TWINKLE: 'TWINKLE',
+  TRUMPET: 'TRUMPET',
+  SOUNDTRACK: 'SOUNDTRACK',
+};
+
+export const STATES = {
+  BOOT: 'BOOT',
+  TITLE: 'TITLE',
+  MAIN: 'MAIN',
+  MAIN2: 'MAIN2',
+  CHOOSE: 'CHOOSE',
+  END: 'END',
+  END2: 'END2',
+  PRELOAD: 'PRELOAD',
+  CHICK: 'CHICK',
+  BIBLE: 'BIBLE'
+};
+
+export const CANVAS = {
+  WIDTH: 1000,
+  HEIGHT: 600,
+};
