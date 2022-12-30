@@ -8,14 +8,12 @@
 http://badtrip.intuition.team/
 
 <h2>Играть локально:</h2>
-Установите:
-- `npm install`
 
-Запустите в папке проекта:
-`npm run develop`
+· Установите необходимые зависимости: `npm install`
 
-Сервер доступен:
-`http://localhost:8080`.
+· запустите в папке проекта: `npm run develop`
 
+· сервер доступен по адресу: `http://localhost:8080`
 
+Технологии: Phaser
 Исходный код взят отсюда: https://oliverbenns.itch.io/sunset-selfies
